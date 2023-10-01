@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">senditapp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Hello to send it page</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Send it</string>
+    <string name="hello_second_fragment">Sign up</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="program">Program</string>
+    <string name="plans">plans</string>
+</resources>
